@@ -1,9 +1,11 @@
- # 401 JS
-.db
+# 401 JS
 db
 .env
 temp
 build
+aws.yml
+*.crt
+*.key
 
 # Created by https://www.gitignore.io/api/vim,osx,node,linux,windows
 ### Linux ###
@@ -80,9 +82,6 @@ typings/
 
 # dotenv environment variables file
 .env
-
-#intellij
-.idea
 
 
 ### OSX ###
